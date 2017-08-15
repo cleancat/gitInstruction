@@ -1,4 +1,5 @@
+添加
 git add 
 git commit -m
 git pull
-git push
+git push origin <远程分支名>
